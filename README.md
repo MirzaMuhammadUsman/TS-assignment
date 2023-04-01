@@ -1,1 +1,1 @@
-# TS-assignment
+This is a TypeScript assignment in which we made a class hierarchy to model a vehicle rental system. I made a class name Vehicle which has properties of vehicles in it. All the other subclasses were child of these class. I just give it the information and it told me wether the vehicle is rented or not and how to return it.
