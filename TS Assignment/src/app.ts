@@ -126,7 +126,7 @@ const truck1 = new Truck('Suzuki', 'Truck', 2016, 2);
 console.log(truck1.name); // Toyota
 console.log(truck1.model); // Corolla
 console.log(truck1.year); // 2018
-console.log(truck1.getCargoCapacity()); // 4
+console.log(truck1.getCargoCapacity()); // 20,000
 console.log(truck1.isRented()); // false
 truck1.rent(); // You have rented this Toyota Corolla.
 console.log(truck1.isRented()); // true
